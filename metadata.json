@@ -1,0 +1,5 @@
+{
+  "name": "Math Quest: Gymi Prep",
+  "description": "An interactive learning app that generates math problems in the style of the Zurich Langgymnasium entrance exams. It features automatic problem generation, step-by-step solutions, and gamification elements to make learning engaging for students.",
+  "requestFramePermissions": []
+}
